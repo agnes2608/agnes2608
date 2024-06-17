@@ -1,4 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+Meu nome é agnes sttephany
+
+.Estou estudando na Alura
+
+.Estou me desenvolvendo na linguagem JavaScript
+
+.Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+@agnessttephany6@gmail.com
 
 <!--
 **agnes2608/agnes2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
